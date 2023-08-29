@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    margin-top:4%;
+}
+
+p{
+    font-size: 115%;
+    text-align: justify;
+    margin-left : 5%;
+    margin-right:5%;
+    line-height: 40px;
+}
+
+span{
+    font-weight: bold;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
